@@ -3,7 +3,7 @@
 <launch>
   <arg name="scan_topic" default="scan"/>
   <arg name="scan_frame" default="/hokuyo_link"/>
-  <arg name="scan_dev" default="/dev/ttyACM0"/>
+  <arg name="scan_dev" default="/dev/sensors/hokuyo_urg"/>
   <arg name="joy_config" default="elecom_joy"/>
   <arg name="joy_dev" default="/dev/input/js0"/>
   
