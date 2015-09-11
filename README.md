@@ -1,3 +1,3 @@
-**Deprecated Repository**
+## orne_maps
 
-Integrated into [here](https://github.com/open-rdc/icart_mini)
+The repository provides sharing maps for Tsukuba Challenge under Project ORNE.
