@@ -2,7 +2,7 @@
 <package>
     <name>orne_maps</name>
     <version>0.1.0</version>
-    <description>The orne_maps package</description>
+    <description>orne_maps provides sharing maps for Tsukuba Challenge under Project ORNE.</description>
 
     <maintainer email="d.maekawa@rapyuta-robotics.com">Daiki Maekawa</maintainer>
     <author email="d.maekawa@rapyuta-robotics.com">Daiki Maekawa</author>
