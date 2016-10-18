@@ -1,4 +1,4 @@
-image: 16_middle_tc2.pgm
+image: 16_middle_tcall.pgm
 resolution: 0.050000
 origin: [-292.000000, -100.000000, 0.000000]
 negate: 0
