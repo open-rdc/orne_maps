@@ -1,2 +1,0 @@
-17_beta_tcall.pgm filter=lfs diff=lfs merge=lfs -text
-17_beta_tcall.pgm.bkp filter=lfs diff=lfs merge=lfs -text
