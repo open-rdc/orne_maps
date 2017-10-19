@@ -1,4 +1,4 @@
-image: tcall2017_alpha_edit.pgm
+image: tcall2017_alpha_edit_for_costmap.pgm
 resolution: 0.050000
 origin: [-100.000000, -100.000000, 0.000000]
 negate: 0
